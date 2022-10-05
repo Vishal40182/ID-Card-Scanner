@@ -12,7 +12,7 @@ import string
 import warnings
 warnings.filterwarnings('ignore')
 
-### Load NER model
+### Load Spacy NER model
 model_ner = spacy.load('./output/model-best/')
 
 
