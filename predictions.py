@@ -179,3 +179,4 @@ def getPredictions(image):
         
     return img_bb, entities
 
+
